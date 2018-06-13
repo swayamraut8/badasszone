@@ -1,0 +1,15 @@
+#heading {
+    text-align: center;
+    color: blue;
+    font-size:  55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#script {
+    color: rgb(45, 169, 173);
+}
+.sub-h {
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+    color: firebrick;
+}
